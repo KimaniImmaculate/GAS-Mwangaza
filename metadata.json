@@ -1,0 +1,6 @@
+{
+  "name": "Mwangaza School Student Resource Hub",
+  "description": "Cloud-native academic resource platform, past papers repository, schedule planner, and technical specification blueprint for Mwangaza School with Firebase and Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
